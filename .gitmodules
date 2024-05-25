@@ -1,0 +1,3 @@
+[submodule "examples/svelte"]
+	path = examples/svelte
+	url = https://github.com/meocoder31099/marked-alm-svelte-examples.git
