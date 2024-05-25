@@ -26,7 +26,10 @@
     "./marked-alm.min.js": "./marked-alm.min.js",
     "./package.json": "./package.json"
   },
-  "repository": "https://github.com/meocoder31099/marked-alm.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meocoder31099/marked-alm.git"
+  },
   "bugs": {
     "url": "http://github.com/meocoder31099/marked-alm/issues"
   },
