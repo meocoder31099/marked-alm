@@ -140,7 +140,7 @@ const { extensions, hooks, tokenizer } = markedAlm({
     }
     // Handle Anime/Manga embedded in markdown
     media({ type, selector, media, renderer }) {
-      // type: 'spoiler'
+      // type: 'media'
       // selector: the selector of the placeholder tag added by the parser to the HTML parsed from markdown
       // media: { id: string; type: "ANIME" | "MANGA" } - the data for the media
       // renderer: a string of HTML used to override the default placeholder tag (not recommended as it can lead to various issues, use with caution)
