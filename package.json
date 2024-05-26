@@ -1,6 +1,6 @@
 {
   "name": "marked-alm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Marked.js extension for AniList-flavored Markdown",
   "author": "Nguyen Dang Vinh (meocoder31099@icloud.com)",
   "license": "MIT",
