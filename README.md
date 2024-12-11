@@ -4,7 +4,6 @@
 [![install size](https://badgen.net/packagephobia/install/marked-alm)](https://packagephobia.now.sh/result?p=marked-alm)
 [![downloads](https://badgen.net/npm/dt/marked-alm)](https://www.npmjs.com/package/marked-alm)
 [![github actions](https://github.com/meocoder31099/marked-alm/workflows/Tests/badge.svg)](https://github.com/meocoder31099/marked-alm/actions)
-[![snyk](https://snyk.io/test/marked-alm/marked/badge.svg)](https://snyk.io/test/npm/marked-alm)
 
 - An extension for the [Marked](https://github.com/markedjs/marked) library that supports parsing the AniList [markdown spec](https://anilist.co/forum/thread/6125).
 - This library is not officially supported by AniList, so future changes to AniList may break its functionality.
